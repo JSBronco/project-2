@@ -1,0 +1,53 @@
+@import url("reset.css");
+
+body {
+    background-image: url('../img/bg.png');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 40px;
+}
+
+h1 {
+    font-size: 2.5em;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.parag {
+    font-size: 1.1em;
+    font-weight: 550;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.btn {
+    background-color: #BC6F65;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-weight: 550;
+}
+
+.parag-three {
+    font-size: 1em;
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #000;
+}
+
+.join {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: line-through;
+}
